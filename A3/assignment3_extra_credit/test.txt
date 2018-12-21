@@ -1,0 +1,48 @@
+0 addExchange 0 1
+0 addExchange 0 2
+0 addExchange 0 3
+1 queryLowestRouter 2 3
+1 queryNthChild 0 0
+1 queryNthChild 0 2
+1 addExchange 1 4
+1 addExchange 1 5
+1 queryLowestRouter 4 5
+2 addExchange 2 6
+2 addExchange 2 7
+2 addExchange 2 8
+2 addExchange 3 9
+2 queryNthChild 2 0
+2 queryNthChild 3 0
+2 queryFindPhone 989
+3 switchOnMobile 989 4
+3 queryFindPhone 989
+3 switchOnMobile 876 4
+4 initiate_call 876 989 4
+5 queryMobilePhoneSet 4
+5 queryMobilePhoneSet 1
+5 switchOnMobile 656 5
+5 switchOnMobile 54 5
+6 initiate_call 54 989 4
+7 initiate_call 656 54 5
+7 queryMobilePhoneSet 1
+7 switchOffMobile 656
+7 queryMobilePhoneSet 1
+7 switchOnMobile 213 6
+7 switchOnMobile 568 7
+7 switchOnMobile 897 8
+7 switchOnMobile 295 8
+7 switchOnMobile 346 9
+8 queryMobilePhoneSet 0
+8 queryFindCallPath 989 876
+8 initiate_call 213 295 4
+8 movePhone 989 7
+8 queryFindCallPath 989 876
+8 queryFindCallPath 876 989
+9 switchOffMobile 989
+9 queryFindCallPath 876 989
+9 queryFindCallPath 876 346
+9 queryFindCallPath 876 346
+10 movePhone 876 8
+10 queryMobilePhoneSet 8
+11 initiate_call 876 346 3
+12 switchOffMobile 876

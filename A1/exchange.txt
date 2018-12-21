@@ -1,0 +1,35 @@
+S	1.0247471	1	Kathy	5	sell	2	A	38	F
+P	1.0639601	1	Alex	8	buy	2	A	33	T
+S	1.1303661	1	Brett	7	sell	2	A	43	F
+S	2.016452	2	Manda	9	sell	3	B	46	T
+S	2.062473	2	Melania	9	sell	4	C	50	T
+S	3.0216131	3	Yee	4	sell	1	B	10	F
+S	3.061868	3	Addie	7	sell	5	A	45	T
+S	3.1245298	3	Vasiliki	3	sell	3	C	35	T
+S	3.16431	3	Gaynell	1	sell	5	D	50	F
+T	4.013073	2	1	Alex	8	buy	0	A	33	T
+T	4.013073	2	4	Pearly	6	sell	1	A	29	T
+S	4.013073	4	Pearly	6	sell	1	A	29	T
+T	4.076668	1	3	Vasiliki	3	sell	2	C	35	T
+T	4.076668	1	4	Gidget	5	buy	0	C	42	F
+P	4.1173706	4	Lianne	9	buy	1	C	19	T
+P	5.008102	5	Ashli	6	buy	4	D	30	F
+S	5.07167	5	Gigi	7	sell	2	A	46	F
+S	5.113121	5	Mercedes	9	sell	5	B	33	T
+S	6.009488	6	Jeanmarie	8	sell	1	C	44	F
+P	6.0722494	6	Glinda	6	buy	5	D	40	F
+P	6.1128263	6	Eleanor	3	buy	3	E	34	F
+S	7.019298	7	Hal	3	sell	4	F	20	F
+P	7.059791	7	Gidget	9	buy	5	E	37	T
+P	7.123037	7	Vasiliki	1	buy	2	E	13	T
+T	7.1635733	1	4	Pearly	6	sell	0	A	29	T
+T	7.1635733	1	7	Brett	5	buy	2	A	35	T
+P	7.1635733	7	Brett	5	buy	2	A	35	T
+P	8.013945	8	Yee	3	buy	3	G	37	F
+S	9.007671	9	Wilford	10	sell	4	B	39	F
+S	9.07042	9	Ashli	7	sell	5	A	46	T
+T	10.022231	1	9	Ashli	7	sell	4	A	46	T
+T	10.022231	1	10	Addie	6	buy	0	A	50	F
+P	10.062666	10	Pearly	5	buy	1	F	41	F
+S	10.126081	10	Alex	2	sell	2	C	33	F
+25

@@ -1,0 +1,11 @@
+addPage hey
+addPage hey1
+addPage hey2
+addPage hey3
+addPage hey4
+queryFindPositionsOfWordInAPage krunal hey
+queryFindPositionsOfWordInAPage krunal hey1
+queryFindPositionsOfWordInAPage krunal hey2
+queryFindPagesWhichContainAllWords krunal mad
+queryFindPagesWhichContainPhrase krunal mad
+queryFindPagesWhichContainAnyOfTheseWords krunal mad

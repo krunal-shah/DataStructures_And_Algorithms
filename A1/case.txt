@@ -1,0 +1,3 @@
+2	Kathy	6	sell	5	A	8	T
+2	Rosie	6	sell	10	A	9	T
+7	Whitney	8	buy	10	A	10	T
